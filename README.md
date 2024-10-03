@@ -10,9 +10,10 @@ Creative software developer with experience in backend and team leadership. Pass
 
 ## Skills
 
-* Programming Languages, Frameworks, and Libraries: C#, Java, TypeScript, JavaScript, Spring Boot, NestJS, React.js, Node.js, Express
-* Databases: MySQL, PostgreSQL, MongoDB
-* Development Tools and Methodologies: Git, GitHub, GitLab, JIRA, Trello, Confluence, SCRUM
+Python and Libraries; Excel, Power BI, Automatización, Oratoria, Liderazgo
+Databases: MySQL
+Development Tools and Methodologies: Git, GitHub, GitLab, JIRA, Trello, Confluence, SCRUM
+      
 
 **About Austral Forge Games:**
 
